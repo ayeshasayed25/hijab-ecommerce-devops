@@ -11,7 +11,3 @@
 #2. Configure AWS credentials
 #3. Update `infrastructure/terraform.tfvars` with your key pair
 #4. Run Terraform manually once:
-#   ```bash
-#   cd infrastructure
-#   terraform init
-#   terraform apply -auto-approve
